@@ -1,0 +1,20 @@
+*divider* <p id="testi">&quot;Brilliant gig Saturday night gents, a big thanks to you all.&quot;</p><p id="testi2">The Leeds Irish Clovers</p>
+*divider* <p id="testi">&quot;Great night Saturday fellas, loads of people asking for you back!!&quot;</p><p id="testi2">Neville Gill</p>
+*divider* <p id="testi">&quot;Fab gig at rawmarsh trades last night guys!&quot;</p><p id="testi2">Wendy Dukes</p>
+*divider* <p id="testi">&quot;100% live music makes it worth it!&quot;</p><p id="testi2">Wendy Dukes</p>
+*divider* <p id="testi">&quot;Quality gig at South Durham Social Club last night!&quot;</p><p id="testi2">Paul Wilson</p>
+*divider* <p id="testi">&quot;Saw you at Scallywags, must say brilliant.&quot;</p><p id="testi2">Carl Sharp</p>
+*divider* <p id="testi">&quot;Saw you last night at Scallywags, Ingoldmells. We thought you were fantastic.&quot;</p><p id="testi2">Michelle Elday</p>
+*divider* <p id="testi" style="font-size:0.95em;">&quot;We got some great feedback from customers at The Star, Cudworth.&quot;</p><p id="testi2">Simon Davey</p>
+*divider* <p id="testi">&quot;Thanks for doing March of The Mods. Grimsby loved your set.&quot;</p><p id="testi2">George Holness</p>
+*divider* <p id="testi">&quot;Great night at Askern Spa last night! Would love to see you again!&quot;</p><p id="testi2">Meli Jane Brown</p>
+*divider* <p id="testi" style="font-size: 1em;">&quot;Brilliant evening at Richard's 50th birthday bash, thanks guys!&quot;</p><p id="testi2">Brenda Thewlis</p>
+*divider* <p id="testi">&quot;Thankyou so much for playing at my wedding you were fantastic!&quot;</p><p id="testi2">Leann Buckborough</p>
+*divider* <p id="testi">&quot;Best band on our hols all week at Nodes Pont, brill night!&quot;</p><p id="testi2">Mechelle Porter</p>
+*divider* <p id="testi">&quot;Awesome gig last night lads bloody brilliant night!&quot;</p><p id="testi2">Jamie Marshall</p>
+*divider* <p id="testi">&quot;Top Gig in the Alma definitely 100% Live Band!&quot;</p><p id="testi2">Paul Bates</p>
+*divider* <p id="testi">&quot;Watching you guys at G Casino Manchester, you guys are awesome!&quot;</p><p id="testi2">Jodie-Anne Stephenson</p>
+
+
+
+

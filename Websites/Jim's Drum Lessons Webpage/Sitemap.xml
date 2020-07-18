@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" 
+		xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+
+<url>
+	<loc>http://www.jimsdrumlessons.co.uk/index.php</loc>
+	<image:image>
+		<image:loc>http://www.jimsdrumlessons.co.uk/images/jdllogo.gif</image:loc>
+	</image:image>
+		<priority>1.0</priority>
+</url>
+<url>
+	<loc>http://www.jimsdrumlessons.co.uk/aboutjim.php</loc>
+	<image:image>
+		<image:loc>http://www.jimsdrumlessons.co.uk/images/jdllogo.gif</image:loc>
+	</image:image>
+	<image:image>
+		<image:loc>http://www.jimsdrumlessons.co.uk/images/jim.jpg</image:loc>
+	</image:image>
+</url>
+		
+		
+		
+		
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/drumlessons.html</loc>
+		<priority>1.0</priority></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/biography.html</loc>
+		<priority>0.9</priority></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/photos/100club.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/photos/bowery.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/photos/elbowrooms.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/photos/firthpark.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/photos/firthpark2.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/photos/firthpark3.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/photos/firthpark4.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/photos/firthpark5.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/photos/firthpark6.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/photos/firthpark7.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/photos/steamboat.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/photos/steamboat2.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/photos/wetherby.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/photos/wetherby2.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/photos/modrevueposter.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/photos/ldflaunchpreview.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/videos/civilianslindleylib.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/videos/ccb100club.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/blog.html</loc>
+		<priority>0.8</priority></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/blogs/ldfblog.html</loc>
+		<priority>0.7</priority></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/blogs/whatdrumsticks.html</loc>
+		<priority>0.7</priority></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/blogs/guidetorudimentsblog.html</loc>
+		<priority>0.7</priority></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/testimonials.html</loc>
+		<priority>0.8</priority></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/contact.html</loc></url>
+
+	<url><loc>http://www.jimsdrumlessons.co.uk/contactsuccessful.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/fmtemplates/contactunsuccessful.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/links.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/privacypolicy.html</loc></url>
+	
+	<url><loc>http://www.jimsdrumlessons.co.uk/sitemap.html</loc></url>
+	
+</urlset>
