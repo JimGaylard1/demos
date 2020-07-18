@@ -1,0 +1,9 @@
+User-agent: *
+Sitemap: http://www.jimsdrumlessons.co.uk/Sitemap.xml
+Disallow: /cgibin/randomtestimonials.php/
+Disallow: /cgibin/testimonials.txt/
+Disallow: /images/snaredrum.gif/
+
+Disallow: /images/background.gif/
+Allow: /
+

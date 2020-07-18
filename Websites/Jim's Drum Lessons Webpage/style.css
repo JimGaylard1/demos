@@ -1,0 +1,129 @@
+
+
+/* WEBSITE RULES */
+
+body {
+	margin: 0 0 0 0;
+	background-image:url('images/background.gif');
+	background-attachment:fixed;
+	background-color: #FFf;
+	color: #404040;
+	font-family: arial, sans-serif;
+	}
+
+p.heading { font-family: georgia, serif; text-align: left; font-size: 1.6em; }
+p.bodytext { font-size: 1em; text-align: justify; }
+
+table { border: 0px; }
+img { border: 0px; }
+
+a { font-family: georgia, serif; } 
+a:link {
+  text-decoration: none;
+  color: #0274C1;
+  }
+a:visited {
+  text-decoration: none;
+  color: #0274C1;
+  }
+a:hover {text-decoration: underline;}
+a:active { text-decoration: none; color: #404040; }
+
+
+/* WRAPPER */
+
+div#c {
+/* sets max and minimum width for resolutions */
+	width: 1009px;
+/* aligns pages to center for large resolutions */
+	margin: 0 auto;
+	box-shadow: 0px 0px 10px #b2b2d1;
+	position: relative;
+	background-color: #ffffff;
+}
+/* BODY OUTLINES */
+div#outlinetop { 
+	border-right: 1px solid #;
+	border-left: 1px solid #;
+	}
+div#outline { 
+	border-top: 5px solid #00008b; 
+	}
+
+
+/* HEADER */
+
+div#h {
+	background-color: #ffffff;
+	text-align: center;
+	height: 225px;
+	border-bottom: 1px solid #d6d6d6;
+	position: relative;
+	padding-top: 20px;
+	padding-bottom: 25px;
+	}
+p#sh { /* SUBHEADER */
+	position: absolute;
+	bottom: 12px;
+	right: 20px;
+	text-align: right;
+	font-size: 1.6em;
+	z-index: 1;
+	margin: 0;
+	padding-bottom: 20px;
+	color: #757575;
+	}
+p.rl { /* reverse lettering */
+	unicode-bidi: bidi-override; 
+	direction: rtl;
+	}
+	
+
+/* NAVIGATION */
+
+div#n {
+	width: 100%;
+	text-align: center;
+	padding: 0px;
+	font-size: 1.6em;
+	margin-top: 0px;
+	border-bottom: 2px solid #d6d6d6;
+	border-top: 1px solid #e6e6e6;
+	background-color: #f8f8f8;
+	font-family: georgia, serif;
+	}
+table#nav { width: 100%; text-align: center; margin: 8px 0 8px 0; }
+table#nav td { width: 33%; padding: 7px; }
+td#n1 { border-right: 1px solid #b2b2d1; }
+td#n2 { border-left: 1px solid #d6d6d6; }
+td.navselected {  }
+
+
+/* CONTENT DIV */
+
+div#co {
+	padding: 0px 50px;
+	text-align:left;
+	background-color: #FFFFFF;
+	}
+
+
+/* FOOTER DIV */
+
+div#f {
+	border-top: 2px solid #e6e6e6;
+	background-color: #f8f8f8;
+	margin-bottom: 250px;
+	}
+table#fo { width: 100%; text-align: center; padding: 15px; }
+table#fo td { width: 33%; padding: 20px 20px; }
+td#f1 { border-right: 1px solid #b2b2d1; }
+td#f2 { border-right: 1px solid #b2b2d1; border-left: 1px solid #d6d6d6; }
+td#f3 { border-left: 1px solid #d6d6d6; font-size: 1.3em; } 
+	
+
+/* DRUMLESSONS.HTML */
+table#prices td { padding: 5px; }
+
+/* ABOUTTEACHERJIM.HTML */
+
