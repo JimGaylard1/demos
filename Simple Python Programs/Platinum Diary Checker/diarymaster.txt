@@ -1,0 +1,295 @@
+#c1kjeinlineContent {
+    height: auto;
+    width: 100%;
+    position: relative;
+}
+
+#c1kjeinlineContent-gridWrapper {
+    pointer-events: none;
+}
+
+#c1kjeinlineContent-gridContainer {
+    position: static;
+    display: grid;
+    height: auto;
+    width: 100%;
+    min-height: 3246px;
+    grid-template-rows: min-content min-content min-content 1fr;
+    grid-template-columns: 100%;
+    padding-bottom: 0px;
+    box-sizing: border-box;
+}
+
+#WRchTxtt-p89 {
+    position: relative;
+    margin: 173px 0px 0 calc((100% - 980px) * 0.5);
+    left: -123px;
+    grid-area: 1 / 1 / 2 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#comp-jyy7pcw5 {
+    position: relative;
+    margin: 0px 0px 10px calc((100% - 980px) * 0.5);
+    left: -123px;
+    grid-area: 2 / 1 / 3 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#WRchTxts-1qu {
+    position: relative;
+    margin: 0px 0px 0 calc((100% - 980px) * 0.5);
+    left: -92px;
+    grid-area: 4 / 1 / 5 / 2;
+    justify-self: start;
+    align-self: start;
+}
+
+#c1kjeinlineContent-wedge-4 {
+    visibility: hidden;
+    height: 337px;
+    width: 0;
+    grid-area: 1 / 1 / 4 / 2;
+}
+
+#c1kjecenteredContent {
+    position: relative;
+}
+
+#c1kjeinlineContent-gridContainer > * {
+    pointer-events: auto;
+}
+
+#c1kjeinlineContent-gridContainer > [id$="-rotated-wrapper"] {
+    pointer-events: none;
+}
+
+#c1kjeinlineContent-gridContainer > [id$="-rotated-wrapper"] > * {
+    pointer-events: auto;
+}Tours2020
+
+====
+
+JUNE 
+
+​
+
+FRI - 5TH  - THE BRIDGE - 159-161 Manchester Rd, Huddersfield HD1 3LE
+
+SAT - 6TH - BELLE ISLE WORKING MEN'S CLUB - Belle Isle Rd, Leeds, LS10 3PE
+
+13th - Unavailable
+
+SUN - 21ST - IGHTEN LEIGH SOCIAL CLUB - 389 Padiham Road, Burnley, Lancashire BB12 6ZS *6PM*
+
+SAT - 27TH - HEATON BUFFS SOCIAL CLUB - 22/24 Heaton Rd, Newcastle upon Tyne, NE6 1SD
+
+​
+
+JULY 
+
+​
+
+3rd - Unavailable
+
+SAT - 4TH - HASLAND WORKING MEN'S CLUB - Hasland, Chesterfield S41 0LH
+
+FRI - 10TH - HORSE & GROOM - 3 East Laith Gate, Doncaster DN1 1HZ
+
+SAT - 11TH - THE THREE HORSE SHOES - Bridge St, Boroughbridge, York YO51 9LF
+
+SUN - 12TH - HETTON N DISTRICT WORKING MEN'S CLUB - Back, Richard St, Hetton-le-Hole, Houghton le Spring DH5 9HN
+
+17th - Unavailable
+
+SAT - 18TH - HODTHORPE CLUB - 147 Queens Rd, Hodthorpe, Worksop S80 4UP
+
+19th - Unavailable
+
+FRI - 24TH - JOCKS TAVERN - Shambles St, Barnsley S70 2SW
+
+SAT - 25TH - TRAVS INN - The Green, South Kirkby, Pontefract WF9 3AB
+
+SUN - 26TH - VILLAGE CLUB & INSTITUTE (THE TANK) - Doncaster Road,South Elmsall,Pontefract  WF9 2HX  *5pm*
+
+FRI - 31ST -  THE RAILWAY - 19 Penistone Rd N, Sheffield S6 1LP
+
+​
+
+AUGUST 
+
+​
+
+SAT - 1ST - GAWBER ROAD WORKING MEN'S CLUB - 113 Gawber Rd, Barnsley S75 2PR 
+
+FRI - 7TH - CROMWELL SOCIAL CLUB - 158 Cromwell Rd, Grimsby DN31 2BA
+
+SAT - 8TH - ROYSTON KLONDKE WORKING MEN'S CLUB - 52 Church St, Royston, Barnsley S71 4QU
+
+FRI - 14TH - STOCKSBRIDGE LEGIONNAIRES CLUB - Edward St, Stocksbridge, Sheffield S36 1BA
+
+15th - Unavailable
+
+SUN - 16TH - ALMONDBURY WORKING MEN'S CLUB - 17 Southfield Rd, Huddersfield HD5 8RY - *5pm* 
+
+FRI - 21ST - THE LOCKOFORD INN - Lockoford Ln, Tapton, Chesterfield S41 0TQ
+
+FRI - 28TH - THE COUNTY - Brighowgate, Grimsby DN32 0QU
+
+SAT - 29TH - BARUGH GREEN CLUB - Higham Common Rd, Higham, Barnsley S75 1LD
+
+​
+
+SEPTEMBER 
+
+​
+
+FRI - 4TH - RING O' BELLS - 63 High St, Queensbury, Bradford BD13 2AD
+
+FRI - 11TH -  MIDDLECLIFFE CLUB - 2 Middlecliff Ln, Little Houghton, Barnsley S72 0HX
+
+SUN - 13TH -  FIRTH PARK WORKING MEN'S CLUB - 56 Idsworth Rd, Sheffield S5 6UP
+
+SAT - 19TH - CLEETHORPES WORKING MEN'S CLUB -  26A St Peter's Ave, Cleethorpes DN35 8HL
+
+FRI - 25TH - WALES JUBILEE SPORTS & SOCIAL CLUB - School Rd, Sheffield S26 5QG
+
+26th - Unavailable
+
+​
+
+OCTOBER 
+
+​
+
+SAT- 3RD - BOTTOMCLUB NEWWHITTINGTON - Wellington street, Chesterfield, Derbyshire S43 2DX
+
+SUN - 4TH - MELTHAM LIBERAL CLUB - 17 Wessenden Head Rd, Meltham, Holmfirth HD9 4ET *3pm*
+
+9 th - 11th - Unavailable
+
+FRI - 16TH - LLOYDS ARMS - 76 Victoria St W, Grimsby DN31 1BL
+
+SAT - 17TH - TONG LIBERAL CLUB - 296 Tong St, Bradford, BD4 9RR
+
+FRI - 23RD - JOCKS TAVERN - Shambles St, Barnsley S70 2SW
+
+SAT - 24TH - HILLTOP SPORTS & SOCIAL CLUB - Longacre Rd, Dronfield, S18 1UQ
+
+SUN - 25TH - THE CROWS NEST WORKING MEN'S CLUB - 11 Waggon Ln, Upton, Pontefract WF9 1JS -  *3PM*
+
+FRI - 30TH - KIPPAX WORKING MEN'S CLUB - Gibson Ln, Kippax, Leeds LS25 7BA  *HALLOWEEN PARTY*
+
+SAT - 31ST - BUTTERSHAW LANE WORKING MEN'S CLUB - 160 Buttershaw Ln, La, Bradford BD6 2DA *HALLOWEEN PARTY*
+
+​
+
+NOVEMBER 
+
+​
+
+FRI - 6TH - WALES JUBILEE SPORTS & SOCIAL CLUB - School Rd, Sheffield S26 5QG
+
+SUN - 8TH - IGHTEN LEIGH SOCIAL CLUB - 389 Padiham Road, Burnley, Lancashire BB12 6ZS *6PM*
+
+SAT - 14TH - GRINDON BROADWAY SOCIAL CLUB - Gregory Rd, Sunderland SR4 9RX
+
+FRI - 20TH - HORSE & GROOM - 3 East Laith Gate, Doncaster DN1 1HZ
+
+SUN - 22ND - NEW LODGE WORKING MEN'S CLUB - Wakefield Rd, New Lodge, Barnsley S71 1PA
+
+FRI - 27TH - HOUGHTON ARMS - Great Houghton, Barnsley S72 0AB
+
+SAT - 28TH - THE THREE HORSE SHOES - Bridge St, Boroughbridge, York YO51 9LF
+
+SUN - 29TH - GOLCAR CENTRAL LIBERAL CLUB - Church St, Huddersfield HD7 4AH  *3PM*
+
+​
+
+DECEMBER
+
+​
+
+SAT - 5TH -  BOOT AND SHOE - 20 Wakefield Rd, Ackworth, Pontefract, WF7 7DE​
+
+SUN - 6TH - VILLAGE CLUB & INSTITUTE (THE TANK) - Doncaster Road,South Elmsall,Pontefract  WF9 2HX  *5pm*
+
+SAT - 12TH -  HEMSWORTH MINERS SOCIAL CLUB - Wentworth Terrace, Fitzwilliam, Pontefract, WF9 5AA
+
+SAT - 19TH - TRAVS INN - The Green, South Kirkby, Pontefract WF9 3AB
+
+27th - Unavailable
+
+​
+
+2021
+
+====
+
+​
+
+JANUARY 
+
+​
+
+FEBRUARY 
+
+​
+
+MARCH 
+
+​
+
+APRIL 
+
+​
+
+MAY 
+
+​
+
+29th - Unavailable
+
+​
+
+JUNE 
+
+​
+
+JULY 
+
+​
+
+AUGUST 
+
+​
+
+6th - Unavailable
+
+28th - Unavailable
+
+SEPTEMBER 
+
+​
+
+SAT - 18TH - GOLCAR CENTRAL LIBERAL CLUB - Church St, Huddersfield HD7 4AH  *4PM*
+
+​
+
+OCTOBER 
+
+​
+
+NOVEMBER 
+
+​
+
+DECEMBER
+
+​
+
+SUN - 19TH - GOLCAR CENTRAL LIBERAL CLUB - Church St, Huddersfield HD7 4AH  *3PM*
+
+​
